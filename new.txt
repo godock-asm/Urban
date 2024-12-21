@@ -1,1 +1,8 @@
-22222
+Number_apartments1
+Cod:1234
+
+Number apartments:2
+Cod:2345
+
+Number apartments:3
+Cod:3456
