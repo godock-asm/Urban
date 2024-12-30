@@ -1,6 +1,6 @@
 file=open('new.txt', 'w')
 
-file.write ('Number_apartments')
+file.write ('Number apartments')
 file.write ('1\n')
 file.write ('Cod:')
 file.write('1234\n')

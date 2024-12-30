@@ -1,4 +1,4 @@
-Number_apartments1
+Number apartments1
 Cod:1234
 
 Number apartments:2
